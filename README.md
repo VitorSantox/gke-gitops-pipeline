@@ -48,7 +48,7 @@ graph LR
       WebApp
     end
 ```
-![Uploading image.png…]()
+<img width="610" height="327" alt="image" src="https://github.com/user-attachments/assets/acf278d5-b0d0-4f52-86ca-eeeb9c45dcd2" />
 
 ---
 
